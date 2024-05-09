@@ -1,0 +1,6 @@
+Línea 2:no se puede crear la referencia: '{B927DFF3-9F58-4ADF-9F76-0940FA304A18}#1.0#0'.
+Línea 18: la clase WinXPC_Engine.WindowsXPC del control WindowsXPC1 no era una clase de control cargada.
+Línea 21: el nombre de la propiedad _ExtentX de WindowsXPC1 no es válido.
+Línea 22: el nombre de la propiedad _ExtentY de WindowsXPC1 no es válido.
+Línea 23: el nombre de la propiedad ColorScheme de WindowsXPC1 no es válido.
+Línea 24: el nombre de la propiedad Common_Dialog de WindowsXPC1 no es válido.
